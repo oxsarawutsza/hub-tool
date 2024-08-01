@@ -8,7 +8,7 @@ require (
 	github.com/distribution/reference v0.5.0
 	github.com/docker/cli v25.0.3+incompatible
 	github.com/docker/compose-cli v1.0.35
-	github.com/docker/docker v25.0.3+incompatible
+	github.com/docker/docker v25.0.6+incompatible
 	github.com/docker/go-units v0.5.0
 	github.com/google/uuid v1.6.0
 	github.com/mattn/go-isatty v0.0.14
